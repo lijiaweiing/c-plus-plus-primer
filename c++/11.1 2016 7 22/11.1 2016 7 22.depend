@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1469149664 source:d:\c++\11.1 2016 7 22\main.cpp
+	<iostream>
+	<set>
+	<map>
+	<string>
+	<cctype>
+

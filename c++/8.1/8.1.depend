@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1468549086 source:d:\c++\8.1\main.cpp
+	<string>
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<cctype>
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+	<fstream>
+	<iostream>
+	<sstream>
+	<vector>
+

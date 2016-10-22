@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1383686515 source:d:\c++\234\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1383686515 d:\c++\234\resource.h
+
+1383686515 source:d:\c++\234\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1458175994 source:d:\c++\234\23.cpp
+	<cstring>
+	<string>
+	<cctype>
+	<fstream>
+	<cctype>
+	<iostream>
+	<cmath>
+	<iostream>
+	<cmath>
+	<string>
+	<string>
+	<string>
+	<fstream>
+	<string>
+	<cctype>
+	<cctype>
+	<cctype>
+	<cstring>
+	<cctype>
+	<cstring>
+	<cstring>
+	"stock1.h"
+	<iostream>
+	<cstring>
+	<iostream>
+	"stock2.h"
+	<cstring>
+	<iostream>
+	<cstring>
+	"Plorg.h"
+	<iostream>
+	<cstring>
+	<iostream>
+	<cmath>
+	"vect.h"
+	<stdlib.h>
+	<iostream>
+	"stone.h"
+
+1456730472 d:\c++\234\stock1.h
+
+1456751530 d:\c++\234\stock2.h
+
+1457012390 d:\c++\234\plorg.h
+
+1457753286 d:\c++\234\vect.h
+	<iostream>
+
+1458050251 d:\c++\234\stone.h
+

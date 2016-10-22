@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1383686516 source:d:\c++\89\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1444465141 source:d:\c++\89\67.cpp
+	<iostream>
+	<string>
+

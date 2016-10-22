@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1470645507 source:d:\c++\13.5 2016 8 8\main.cpp
+	<iostream>
+	<iostream>
+	<cstring>
+	<iostream>
+	<algorithm>
+	<utility>
+	<memory>
+	<vector>
+	<cstring>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1469196540 source:d:\c++\11.3 2016 7 21\main.cpp
+	<map>
+	<set>
+	<utility>
+	<string>
+	<algorithm>
+	<iostream>
+	<algorithm>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<utility>
+	<map>
+	<vector>
+

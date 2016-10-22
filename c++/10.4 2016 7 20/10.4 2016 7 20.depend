@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1468979721 source:d:\c++\10.4 2016 7 20\main.cpp
+	<iterator>
+	<algorithm>
+	<vector>
+	<list>
+	<numeric>
+	<functional>
+	<iterator>
+	<iostream>
+	<list>
+	<iostream>
+	<iterator>
+

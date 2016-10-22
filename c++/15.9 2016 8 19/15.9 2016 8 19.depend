@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1471832027 source:d:\c++\15.9 2016 8 19\main.cpp
+	<iostream>
+	"Query.h"
+
+1471831500 d:\c++\15.9 2016 8 19\query.h
+	<sstream>
+	<algorithm>
+	<string>
+	<iterator>
+	<vector>
+	<memory>
+	<iostream>
+	<fstream>
+	<map>
+	<set>
+

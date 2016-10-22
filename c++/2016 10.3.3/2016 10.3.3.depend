@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1468916348 source:d:\c++\2016 10.3.3\main.cpp
+	<algorithm>
+	<vector>
+	<string>
+	<algorithm>
+	<vector>
+	<iostream>
+	<functional>
+	<string>
+	<iostream>
+	<numeric>
+	<algorithm>
+	<functional>
+	<vector>
+	<string>
+

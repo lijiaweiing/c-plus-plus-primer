@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1469626996 source:d:\c++\12.3 2016 7 27\main.cpp
+	<sstream>
+	<string>
+	<fstream>
+	<map>
+	<set>
+	<vector>
+	<memory>
+	<sstream>
+	<string>
+	<fstream>
+	<map>
+	<set>
+	<vector>
+	<memory>
+	<sstream>
+	<algorithm>
+	<string>
+	<vector>
+	<memory>
+	<iostream>
+	<fstream>
+	<map>
+	<set>
+

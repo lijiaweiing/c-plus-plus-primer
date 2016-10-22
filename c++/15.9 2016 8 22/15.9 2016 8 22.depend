@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1472027630 source:d:\c++\15.9 2016 8 22\main.cpp
+	<iostream>
+	<algorithm>
+	<map>
+	<cctype>
+	"Query.h"
+
+1471848152 d:\c++\15.9 2016 8 22\basket.h
+	<iostream>
+	<memory>
+	<string>
+	<set>
+	<map>
+	<vector>
+
+1471962358 d:\c++\15.9 2016 8 22\query.h
+	<fstream>
+	<sstream>
+	<vector>
+	<map>
+	<set>
+	<memory>
+	<algorithm>
+	<iterator>
+

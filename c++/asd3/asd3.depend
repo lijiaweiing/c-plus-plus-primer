@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1468314442 source:d:\c++\asd3\main.cpp
+	<iostream>
+	<string>
+	"Sales_data.h"
+
+1468370417 d:\c++\asd3\sales_data.h
+	<string>
+	<iostream>
+

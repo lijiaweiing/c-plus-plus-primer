@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1469168586 source:d:\c++\11.2 2016 7 22\main.cpp
+	<set>
+	<iostream>
+	<string>
+	<set>
+	<vector>
+	<iostream>
+	<string>
+	<algorithm>
+	<numeric>
+	<vector>
+	<algorithm>
+	<set>
+	<iostream>
+

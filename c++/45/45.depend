@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1383686515 source:d:\c++\45\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1383686515 d:\c++\45\resource.h
+
+1383686515 source:d:\c++\45\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1453952244 source:d:\c++\45\s34.cpp
+	<climits>
+	<climits>
+	<cctype>
+	<string>
+	<iostream>
+	<iostream>
+	<fstream>
+	<fstream>
+	<cstdlib>
+	<cctype>
+	<cstring>
+	<string>
+	<cctype>
+	<cctype>
+	<string>
+	<iostream>
+	<cstring>
+	<iostream>
+	<iostream>
+

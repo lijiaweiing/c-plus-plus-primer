@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1383686516 source:d:\c++\789\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1445337810 source:d:\c++\789\textin1.cpp
+	<iostream>
+
+1445338409 source:d:\c++\789\texin2.cpp
+	<iostream>
+

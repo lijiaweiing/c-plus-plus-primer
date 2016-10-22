@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1460707276 source:d:\c++\cd\main.cpp
+	<iostream>
+	<cstring>
+	"CD.h"
+
+1460707379 d:\c++\cd\cd.h
+	<cmath>
+	<iostream>
+	<cstring>
+

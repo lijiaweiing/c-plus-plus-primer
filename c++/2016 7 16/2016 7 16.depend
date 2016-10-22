@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1468676253 source:d:\c++\2016 7 16\main.cpp
+	<vector>
+	<vector>
+	<iostream>
+	<list>
+	<list>
+	<vector>
+	<iostream>
+	<forward_list>
+	<iostream>
+	<string>
+	<forward_list>
+	<iostream>
+	<list>
+	<vector>
+	<vector>
+	<vector>
+	<iostream>
+	<list>
+	<iostream>
+	<forward_list>
+	<vector>
+	<iostream>
+	<vector>
+	<cstring>
+	<string>
+	<iostream>
+	<string>
+

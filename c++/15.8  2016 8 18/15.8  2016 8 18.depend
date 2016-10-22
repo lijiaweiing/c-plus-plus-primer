@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1471506270 source:d:\c++\15.8  2016 8 18\main.cpp
+	<iostream>
+	"Basket.h"
+
+1471508589 d:\c++\15.8  2016 8 18\basket.h
+	<iostream>
+	<string>
+	<memory>
+	<set>
+

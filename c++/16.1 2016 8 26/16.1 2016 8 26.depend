@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1472360213 source:d:\c++\16.1 2016 8 26\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<list>
+	"vec.h"
+
+1472262907 >
+
+1472262907 d:\c++\16.1 2016 8 26\blob.h
+	<memory>
+	<vector>
+	<string>
+	<exception>
+
+1472360353 d:\c++\16.1 2016 8 26\vec.h
+	<iostream>
+	<memory>
+	<utility>
+
+1472360353 
+
+1472477619 source:/media/li/2602FC1F02FBF1A3/c++/16.1 2016 8 26/main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<list>
+	<memory>
+	"vec.h"
+
+1472372060 /media/li/2602FC1F02FBF1A3/c++/16.1 2016 8 26/vec.h
+	<iostream>
+	<memory>
+	<utility>
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1383686515 source:d:\c++\891\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1383686515 d:\c++\891\resource.h
+
+1383686515 source:d:\c++\891\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1447045283 source:d:\c++\891\zx.cpp
+
+1447045510 source:d:\c++\891\xm.cpp
+	<iostream>
+	<string>
+

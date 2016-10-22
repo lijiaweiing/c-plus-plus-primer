@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1467981236 source:d:\c++\c++primer\main.cpp
+	<string>
+	<vector>
+	<vector>
+	<string>
+	<cstring>
+	<iostream>
+	<vector>
+	<string>
+	<vector>
+	<string>
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+
